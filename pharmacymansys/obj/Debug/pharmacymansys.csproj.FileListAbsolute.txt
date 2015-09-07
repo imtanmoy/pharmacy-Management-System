@@ -1,0 +1,144 @@
+c:\users\tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe.config
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.pdb
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csprojResolveAssemblyReference.cache
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.Properties.Resources.resources
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csproj.GenerateResource.Cache
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.exe
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.pdb
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.login.resources
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.adminControls.resources
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.managerControls.resources
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.stuffControls.resources
+C:\Users\Tanmoy\documents\visual studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AdminSetting.resources
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe.config
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.exe
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.pdb
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.pdb
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\Oracle.DataAccess.dll
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csprojResolveAssemblyReference.cache
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.adminControls.resources
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AdminSetting.resources
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.login.resources
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.managerControls.resources
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.Properties.Resources.resources
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.stuffControls.resources
+C:\Users\mishel\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csproj.GenerateResource.Cache
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe.config
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.exe
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.pdb
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.pdb
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csprojResolveAssemblyReference.cache
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.adminControls.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AdminSetting.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.login.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.managerControls.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.Properties.Resources.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.stuffControls.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csproj.GenerateResource.Cache
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EmployeRegistration.resources
+C:\Users\Tanmoy\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EmployeRegistration.resources
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe.config
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.exe
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.pdb
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.pdb
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csprojResolveAssemblyReference.cache
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.adminControls.resources
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AdminSetting.resources
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.login.resources
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.managerControls.resources
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.Properties.Resources.resources
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.stuffControls.resources
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EmployeRegistration.resources
+C:\Users\Nuzhat Tittly\Documents\Visual Studio 2013\Projects\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csproj.GenerateResource.Cache
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.CategoryList.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.MedView.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.MedInfoView.resources
+C:\Users\Nuzhat Tittly\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe.config
+C:\Users\Nuzhat Tittly\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.exe
+C:\Users\Nuzhat Tittly\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.pdb
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EditMedInfo.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AddMedicineInfo.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AddMgf.resources
+C:\Users\Tanmoy\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.ViewMgf.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe.config
+D:\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe
+D:\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.pdb
+D:\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\Oracle.DataAccess.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AddMgf.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.adminControls.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AdminSetting.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EditMedInfo.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.login.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.managerControls.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AddMedicineInfo.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.MedInfoView.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.MedView.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.Properties.Resources.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.stuffControls.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EmployeRegistration.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.ViewMgf.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csproj.GenerateResource.Cache
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.exe
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.pdb
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csprojResolveAssemblyReference.cache
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.MgfViewInfo.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.Store.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.PurchaseForm.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.NewGrp.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CRQUERYENGINE.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.SAXSERIALIZELib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\Interop.VLELib.dll
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csproj.ResolveComReference.cache
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.ReportPreview.resources
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\RdlCompile.cache
+D:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\RdlCompile.compiled
+H:\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe.config
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csproj.ResolveComReference.cache
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AddMgf.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.adminControls.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AdminSetting.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.NewGrp.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EditMedInfo.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.login.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.managerControls.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.AddMedicineInfo.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.MedInfoView.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.MedView.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.MgfViewInfo.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.Properties.Resources.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.PurchaseForm.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.Store.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.stuffControls.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EmployeRegistration.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.ViewMgf.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csproj.GenerateResource.Cache
+H:\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.exe
+H:\Dropbox\pharmacymansys\pharmacymansys\bin\Debug\pharmacymansys.pdb
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.exe
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.pdb
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.csprojResolveAssemblyReference.cache
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.PurchaseView.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\RdlCompile.cache
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\RdlCompile.compiled
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.SellForm.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.ViewSales.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.ViewStuff.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.StuffInfo.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.ManageStock.resources
+H:\Dropbox\pharmacymansys\pharmacymansys\obj\Debug\pharmacymansys.EditStuffinfo.resources
